@@ -51,5 +51,5 @@ We hope you find this repository helpful for learning about classification model
 
 Happy Learning!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Star the repo
+## contact:naiknarayanp557@gmail.com
